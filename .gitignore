@@ -1,0 +1,5 @@
+node_modules
+.env
+nodemon.json
+mysql.js
+passo_a_passo _criar_projeto_nodejs.txt
